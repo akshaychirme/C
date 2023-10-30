@@ -1,4 +1,4 @@
-// ============    Uncomment the code which you want to RUN ============
+// ============    Uncomment the code (Ctrl+/) which you want to RUN ============
 
 // Ex:- WAP to accept a number & check wheather the number is armstrong number or not.
 // armstrong number = 153 --> (1^3) + (5^3) + (3^3) = 153
