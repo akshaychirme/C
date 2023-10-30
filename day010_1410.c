@@ -1,4 +1,4 @@
-// ============    Uncomment the code which you want to RUN ============
+// ============    Uncomment the code (Ctrl+/) which you want to RUN ============
 
 //Ex :- WAP to print factorial of 5 ;-
 
