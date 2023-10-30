@@ -1,3 +1,5 @@
+// ============    Uncomment the code (Ctrl+/) which you want to RUN ============
+
 /*
 2) do-while loop
     initialization;
