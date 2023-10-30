@@ -1,3 +1,5 @@
+// ============    Uncomment the code (Ctrl+/) which you want to RUN ============
+
 /*
 ******************* DATA TYPES   ********************
     - Type of data that can be stored into the computer memory.
