@@ -1,3 +1,5 @@
+// ============    Uncomment the code (Ctrl+/) which you want to RUN ============
+
 /*
 Program - 
     - Set of instruction is called as program.
