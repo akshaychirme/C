@@ -1,3 +1,5 @@
+// ============    Uncomment the code (Ctrl+/) which you want to RUN ============
+
 // #include<stdio.h>
 // main(){
 //     int n, a=4, b=2, c=5;
