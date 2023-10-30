@@ -1,3 +1,5 @@
+// ============    Uncomment the code (Ctrl+/) which you want to RUN ============
+
 //Add two numbers.
 
 // #include<stdio.h>
