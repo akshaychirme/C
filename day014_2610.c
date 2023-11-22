@@ -80,3 +80,54 @@ Note:- In scanf() of string no need to use & (address).
 // 	printf("Line is = %s", line);
 // 	return 0;
 // }
+
+// WAP to count the words from sentence . Take sentence from user.
+
+// #include<stdio.h>
+// #include<string.h>
+// int main(){
+// 	 int i=0,count=1;
+// 	 char ch;
+// 	 char sent[50];
+// 	 printf("Enter the line = ");
+// 	do{
+// 		ch = getchar();
+// 		sent[i] = ch;
+// 		i++;
+// 	} while (ch != '\n');
+// 	sent[i-1] = '\0';
+// 	printf("Line is = %s\n", sent);
+
+// 	for(i=0; i<strlen(sent); i++){
+// 		if(sent[i] == ' ' && sent[i+1] != '\0'){
+// 			count++;
+// 		}
+// 	}
+// 	printf("%d",count);
+// 	return 0;
+// }
+
+//WAP to calculate total numbers of characters in sentence without counting spaces.
+
+// #include<stdio.h>
+// #include<string.h>
+// int main(){
+// 	int i=0, count=0;
+// 	char ch;
+// 	char name[50];
+// 	printf("Enter the sentence = ");
+// 	do{
+// 		ch = getchar();
+// 		name[i] = ch;
+// 		i++;
+// 	}while(ch != '\n');
+// 	name[i-1] = '\0';
+// 	printf("%s\n", name);
+// 	for(i=0;i<strlen(name); i++){
+// 		if(name[i] != ' '){
+// 			count++;
+// 		}
+// 	}
+// 	printf("%d",count);
+// 	return 0;
+// }
